@@ -1,2 +1,2 @@
-Membuat objek 3D bentuk dasar geometri, seperti kubus, silinder, kerucut
-![Screenshot (691)](https://github.com/user-attachments/assets/88ef8e9f-265a-4792-8c9e-786f5891068e)
+Membuat Animasi 3D, seperti orthographic, perspective, camera.
+![Screenshot (692)](https://github.com/user-attachments/assets/1a53596e-3205-4504-b9c2-36a53b35a58d)
